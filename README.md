@@ -1,4 +1,5 @@
-*Puzzle Platform Multiplayer*
+Puzzle Platform Multiplayer Project
+
 Reference: https://www.udemy.com/course/unrealmultiplayer/
 
 The concepts learned in this simple project includes:
