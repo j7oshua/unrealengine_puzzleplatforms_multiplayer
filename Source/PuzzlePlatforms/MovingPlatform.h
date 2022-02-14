@@ -21,10 +21,13 @@ public:
 
 	virtual void Tick(float DeltaTime) override;
 
-private:
 	UPROPERTY(EditAnywhere)
 		float PlatformMovingSpeed = 20.f;
 
 	UPROPERTY(EditAnywhere, Meta = (MakeEditWidget = true))
 		FVector TargetLocation;
+
+private:
+	FVector GlobalTargetLocation;
+	FVector GlobalStartLocation;
 };
