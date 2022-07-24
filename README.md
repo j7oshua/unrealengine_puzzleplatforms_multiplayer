@@ -1,9 +1,7 @@
-Puzzle Platform Multiplayer Project
+Puzzle Platform Multiplayer Project *WORK IN PROGRESS*
 
-Reference: https://www.udemy.com/course/unrealmultiplayer/
-
-The concepts learned in this simple project includes:
-- Checking out the Client-Server Model
+This project is a simple multiplayer puzzle platformer that includes the following concepts intergrated:
+- Client-Server Model
 - Authority and Replication
 - Playing over the internet
 - Using GameInstance
