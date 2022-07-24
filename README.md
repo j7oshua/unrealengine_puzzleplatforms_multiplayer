@@ -1,5 +1,4 @@
 Puzzle Platform Multiplayer Project
-*WORK IN PROGRESS*
 
 This project is a simple multiplayer puzzle platformer that includes the following concepts intergrated:
 - Client-Server Model
